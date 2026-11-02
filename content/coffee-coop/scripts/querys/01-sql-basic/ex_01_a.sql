@@ -6,7 +6,7 @@ SELECT
 FROM
     geo.departments;
 
-/**
+/*
 department_code |                     department_name
 -----------------+----------------------------------------------------------
 05              | Antioquia
@@ -42,4 +42,4 @@ department_code |                     department_name
 95              | Guaviare
 97              | Vaupés
 99              | Vichada
-**/
+*/
